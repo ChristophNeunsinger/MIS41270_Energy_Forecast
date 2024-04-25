@@ -1,4 +1,4 @@
-# MIS41270_Energy_Forecast
+# MIS41270_Energy_Forecast_Group_21
 A Git Hub repository including the code and description of creating a proof of concept for Energy Forecasting.
 
 This repository currently includes one Proof of Concept File which can be modified in future collaborations. 
